@@ -1,0 +1,55 @@
+Proprietary License — All Rights Reserved
+
+Copyright (c) 2026 Prof. Rajveer Yaduvanshi, Netaji Subhas University of
+Technology (NSUT), New Delhi. All rights reserved.
+
+This repository contains the firmware, source code, audio content and related
+materials (together, the "Software") for the Social Science Lab Kit. The
+Software was developed at NSUT under the supervision of Prof. Rajveer
+Yaduvanshi (the "Owner") and is the Owner's confidential and proprietary
+property.
+
+1. No License Granted
+
+   No license or right is granted to anyone, by implication, estoppel or
+   otherwise, except as expressly stated in a separate written agreement
+   signed by the Owner. Without the Owner's prior written permission, you
+   may not use, copy, modify, merge, publish, distribute, sublicense or
+   create derivative works of the Software, in whole or in part.
+
+2. No Commercial Use
+
+   No person or entity may sell, lease, license, rent, manufacture,
+   distribute or otherwise commercially exploit the Software, any product
+   that contains it, or any product derived from it. This includes offering
+   the Software as part of a paid product or service.
+
+3. Patent Notice
+
+   The hardware this Software is designed for, and the methods it
+   implements, are protected by one or more patents whose inventors are
+   Prof. Rajveer Yaduvanshi and co-inventors. Nothing in this repository or
+   this notice grants any right or license under those patents. Any
+   unauthorized making, using, selling, offering for sale or importing of
+   the patented hardware or methods may infringe those patents.
+
+4. Third-Party Components
+
+   This repository includes third-party software, such as the ESP32-A2DP
+   library in lib/ESP32-A2DP, which is licensed under the Apache
+   License 2.0. Those components are governed by their own licenses, which
+   are included in their directories, and this notice does not apply to
+   them.
+
+5. Disclaimer of Warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+   IN NO EVENT SHALL THE OWNER, NSUT OR THE AUTHORS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+The Software is not available for licensing, and requests for permission
+to use it will not be entertained.
